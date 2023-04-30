@@ -55,9 +55,10 @@ Finally, it shows the real-time eye tracking results on frames captured from the
 
 ## Note
 
-This is a simple script for demonstration purposes and may need to be adjusted for your specific needs. The quality of the predictions will depend on the quality and variety of the training data, batch size and epochs. In this I've used 8 batch size, 50% of my dataset, 20 epoch so it's not accurate completely.
+This is a simple script for demonstration purposes and may need to be adjusted for your specific needs. The quality of the predictions will depend on the quality and variety of the training data, batch size and epochs. In this I've used 8 batch size, 50% of my dataset, 20 epoch and ResNet50 so it's not accurate completely.
 
 Ideally: 
 - 16 Batch size
 - 100 Epoch
+- ResNet152V2
 - More 7000 image dataset
